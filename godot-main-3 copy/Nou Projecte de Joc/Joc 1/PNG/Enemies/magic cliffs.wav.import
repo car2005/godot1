@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/magic cliffs.wav-b322954928ae31f9b615e6aec53121a9.sample"
+
+[deps]
+
+source_file="res://PNG/Enemies/magic cliffs.wav"
+dest_files=[ "res://.import/magic cliffs.wav-b322954928ae31f9b615e6aec53121a9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
